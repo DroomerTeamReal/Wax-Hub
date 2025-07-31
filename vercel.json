@@ -1,1 +1,9 @@
-
+{
+  "redirects": [
+    {
+      "source": "/info.html",
+      "destination": "/info",
+      "permanent": true
+    }
+  ]
+}

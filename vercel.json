@@ -2,8 +2,7 @@
   "rewrites": [
     {
       "source": "/info",
-      "destination": "/info.html",
-      "permanent": true
+      "destination": "/info.html"
     }
   ]
 }
